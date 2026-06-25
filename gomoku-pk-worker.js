@@ -16,7 +16,7 @@
  *       class_name = "Room"
  *     [[migrations]]
  *       tag = "v1"
- *       new_classes = ["Room"]
+ *       new_sqlite_classes = ["Room"]
  *   然后： wrangler deploy
  *
  *  客户端把本 Worker 的地址填进页面「在线对战 · 高级」即可（如

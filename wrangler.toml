@@ -1,4 +1,4 @@
-name = "core-gomoku"
+name = "gomoku-pk"
 main = "gomoku-pk-worker.js"
 compatibility_date = "2024-09-01"
 
@@ -8,4 +8,4 @@ class_name = "Room"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["Room"]
+new_sqlite_classes = ["Room"]
