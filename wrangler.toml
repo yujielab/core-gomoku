@@ -1,4 +1,4 @@
-name = "gomoku-pk"
+name = "core-gomoku"
 main = "gomoku-pk-worker.js"
 compatibility_date = "2024-09-01"
 
